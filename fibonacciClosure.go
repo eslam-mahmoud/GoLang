@@ -1,5 +1,5 @@
-https://tour.golang.org/moretypes/26
-Exercise: Fibonacci closure
+//https://tour.golang.org/moretypes/26
+//Exercise: Fibonacci closure
 
 package main
 
